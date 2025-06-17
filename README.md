@@ -1,12 +1,24 @@
-# React + Vite
+# PokéTCG Market DB
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application that allows users to search, view, and explore cards from the **Pokémon Trading Card Game (TCG)** using a public API. Built with **Vite/React** and deployed on **Netlify**.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live version here:  
+👉 [https://poketcgmarketdb-pia.netlify.app](https://poketcgmarketdb-pia.netlify.app)
 
-## Expanding the ESLint configuration
+## 📋 Project Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+PokéTCG Market DB is a personal/academic project developed to:
+
+- Search and filter Pokémon TCG cards by name, type, or rarity.
+- Display card details including image, set, type, and rarity.
+- Provide a clean and responsive user interface for Pokémon fans and collectors.
+
+## 🚀 Technologies Used
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **PokéTCG API** → [https://pokemontcg.io/](https://pokemontcg.io/)
+- **Netlify** (for deployment)
